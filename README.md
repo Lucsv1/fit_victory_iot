@@ -19,8 +19,9 @@ Além disso, o projeto está integrado a um aplicativo que notifica os usuários
 Quando for inciar a simulação, ira exister uma demora para incializar, isso vai depender da sua internet.
 Após ele inciar e realizar a conexão com o MQTT, o dashboard utilizado com o NODE-RED vai funcionar, mostrando a temperatura atual, a umidade e o quanto de potenciomtro voce colocou.
 
-Contribuição
-[...incluir informações sobre como contribuir com o projeto...]
+## Fluxo NODE-RED
+
+
 
 Licença
 [...incluir informações sobre a licença do projeto...]
