@@ -21,7 +21,8 @@ Após ele inciar e realizar a conexão com o MQTT, o dashboard utilizado com o N
 
 ## Fluxo NODE-RED
 
-![Descrição da imagem](WhatsApp Image 2023-11-20 at 14.07.09.jpeg)
+WhatsApp Image 2023-1
+
 
 Licença
 [...incluir informações sobre a licença do projeto...]
