@@ -42,8 +42,7 @@ Para utilizar este projeto e monitorar a temperatura em tempo real, siga as etap
 Certifique-se de configurar corretamente as informações de rede Wi-Fi e MQTT no código antes de fazer o upload para o ESP32.
 
 
-Licença
-[...incluir informações sobre a licença do projeto...]
+Link video funcionamento
+https://youtu.be/vz1C5ZZAmUI
 
-Contato
-[...incluir informações de contato do autor do projeto...]
+
