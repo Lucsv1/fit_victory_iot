@@ -25,7 +25,6 @@ Para utilizar este projeto e monitorar a temperatura em tempo real, siga as etap
 
 3. Certifique-se de ter instalado as bibliotecas necessárias para este projeto. Você pode utilizar a biblioteca Manager da Arduino IDE para instalá-las. As bibliotecas necessárias são:
    - WiFi
-   - ThingSpeak
    - DHT
    - PubSubClient
 
