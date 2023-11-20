@@ -21,8 +21,6 @@ Após ele inciar e realizar a conexão com o MQTT, o dashboard utilizado com o N
 
 ## Fluxo NODE-RED
 
-[WhatsApp Image 2023-1](https://github.com/Lucsv1/fit_victory_iot/blob/9b791aad592420ef45b7e61d6c752775750f5161/WhatsApp%20Image%202023-11-20%20at%2014.07.09.jpeg)https://github.com/Lucsv1/fit_victory_iot/blob/9b791aad592420ef45b7e61d6c752775750f5161/WhatsApp%20Image%202023-11-20%20at%2014.07.09.jpeg
-
 
 Licença
 [...incluir informações sobre a licença do projeto...]
