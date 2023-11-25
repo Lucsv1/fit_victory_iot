@@ -1,4 +1,10 @@
 # FITVICTORY
+## INTEGRANTES
+
+FELIPE BRENO SUGISAWA ALTRAN – 94170
+LUCAS VINICIUS OLIVEIRA GALINDO – 95177
+MARCUS VINICIUS DAGOSTINI – 94279
+THIAGO RIBEIRO DA COSTA – 92800
 
 ## Descrição
 O projeto tem como objetivo ajudar as pessoas a monitorar a temperatura em tempo real e fazer parte de um aplicativo maior que visa promover um estilo de vida saudável. O projeto consiste em um dashboard que exibe a temperatura atual e o valor do potenciômetro. Essas informações são coletadas por meio de um ESP32, que utiliza um sensor DHT22 para medir a temperatura e um potenciômetro para obter um valor variável.
